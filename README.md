@@ -9,3 +9,6 @@ Grâce à notre application, les joueurs peuvent être certains que leurs répli
 
 En résumé, notre application mobile en Swift est un outil essentiel pour les joueurs d'airsoft souhaitant convertir la puissance de leurs répliques en fonction des règles spécifiques des différents terrains. Avec sa simplicité d'utilisation et ses fonctionnalités pratiques, elle garantit une conformité totale aux exigences et permet aux joueurs de profiter pleinement de leur passion pour l'airsoft.
 
+Vous pouvez visualiser le site présentant le projet grâce au lien ci-dessous https://dycon.fr/airsoft-tools.html
+
+N'hésitez pas à me contacter si vous souhaitez voir le code source de l'application.
